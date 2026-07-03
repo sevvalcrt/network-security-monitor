@@ -6,6 +6,7 @@ A real-time network traffic monitoring tool that captures packets and detects su
 - Real-time packet capture using Scapy
 - Port scan detection based on connection tracking (flags source IPs making an unusually high number of connections to different ports)
 - Console-based alerting
+- Persistent alert logging to a SQLite database
 
 ## How It Works
 The tool captures TCP/IP packets on a network interface and tracks, per source IP, the set of unique destination ports it connects to within the capture session. If the number of unique ports exceeds a configurable threshold, it raises a warning — a common signature of port scanning tools like Nmap.
@@ -36,8 +37,8 @@ nmap -p 1-100 localhost
 ```
 
 ## Roadmap
-- [ ] Reduce alert noise (rate-limit repeated warnings per source)
-- [ ] Log detected events to a database (SQLite/PostgreSQL)
+- [x] Reduce alert noise (rate-limit repeated warnings per source)
+- [x] Log detected events to a database (SQLite/PostgreSQL)
 - [ ] Java-based detection engine with REST API
 - [ ] C/C++ high-performance packet capture layer
 - [ ] Threat intelligence feed integration (known malicious IPs)
