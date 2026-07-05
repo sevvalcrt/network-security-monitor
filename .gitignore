@@ -2,3 +2,5 @@ venv/
 output.log
 alerts.db
 detection-engine/target/
+capture-engine/output.log
+capture-engine/sniffer
