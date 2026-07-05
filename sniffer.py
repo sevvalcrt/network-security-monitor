@@ -6,6 +6,16 @@ connection_tracker = {}
 PORT_SCAN_THRESHOLD = 10
 alerted_ips = set()
 
+def load_threat_ips():
+    try:
+        with open("threat_ips.txt", "r") as f:
+            return set(line.strip() for line in f if line.strip())
+    except FileNotFoundError:
+        print("Warning: threat_ips.txt not found, skipping threat intel checks.")
+        return set()
+
+THREAT_IPS = load_threat_ips()
+
 def init_database():
     conn = sqlite3.connect("alerts.db")
     cursor = conn.cursor()
@@ -26,6 +36,11 @@ def process_packet(packet):
 
         src_ip = packet[IP].src
         dst_ip = packet[IP].dst
+
+        if src_ip in THREAT_IPS and src_ip not in alerted_ips:
+            print(f"WARNING: Traffic from known malicious IP detected! Source: {src_ip}")
+            save_alert(src_ip, "MALICIOUS_IP", "Matched threat intelligence feed")
+            alerted_ips.add(src_ip)
 
         print(f"Source: {src_ip} -> Destination: {dst_ip}")
 

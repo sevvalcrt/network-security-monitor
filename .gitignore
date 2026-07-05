@@ -4,3 +4,5 @@ alerts.db
 detection-engine/target/
 capture-engine/output.log
 capture-engine/sniffer
+threat_ips.txt
+output.log
