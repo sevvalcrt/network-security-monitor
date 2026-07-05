@@ -9,6 +9,7 @@ A real-time network traffic monitoring tool that captures packets and detects su
 - Persistent alert logging to a SQLite database
 - Java/Spring Boot REST API exposing detected alerts (`/alerts`, `/alerts/port-scan`)
 - Independent Java-based detection engine with thread-safe event processing (`/events`)
+- C-based packet capture layer using libpcap, with its own port scan detection logic
 
 
 ## How It Works
@@ -21,6 +22,7 @@ A parallel Java/Spring Boot service exposes a `POST /events` endpoint that accep
 - SQLite (persistent storage)
 - Java 21 + Spring Boot (REST API layer)
 - Spring Data JPA + Hibernate (database access)
+- C + libpcap (low-level packet capture layer)
 
 ## Installation & Usage
 
@@ -55,6 +57,16 @@ for port in 1 2 3 4 5 6 7 8 9 10 11; do
 done
 ```
 
+### Running the C packet capture layer
+
+```bash
+cd capture-engine
+gcc sniffer.c -o sniffer -lpcap
+sudo ./sniffer
+```
+
+This captures traffic on the loopback interface and independently detects port scans using its own lightweight tracking structure.
+
 ## Testing
 
 Tested locally by running an Nmap scan against localhost and confirming the tool correctly flagged the scanning behavior:
@@ -67,7 +79,7 @@ nmap -p 1-100 localhost
 - [x] Reduce alert noise (rate-limit repeated warnings per source)
 - [x] Log detected events to a database (SQLite/PostgreSQL)
 - [x] Java-based detection engine with REST API
-- [ ] C/C++ high-performance packet capture layer
+- [x] C/C++ high-performance packet capture layer
 - [ ] Threat intelligence feed integration (known malicious IPs)
 - [ ] Web dashboard for live visualization
 
