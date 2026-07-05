@@ -8,10 +8,12 @@ A real-time network traffic monitoring tool that captures packets and detects su
 - Console-based alerting
 - Persistent alert logging to a SQLite database
 - Java/Spring Boot REST API exposing detected alerts (`/alerts`, `/alerts/port-scan`)
+- Independent Java-based detection engine with thread-safe event processing (`/events`)
 
 
 ## How It Works
 The tool captures TCP/IP packets on a network interface and tracks, per source IP, the set of unique destination ports it connects to within the capture session. If the number of unique ports exceeds a configurable threshold, it raises a warning — a common signature of port scanning tools like Nmap.
+A parallel Java/Spring Boot service exposes a `POST /events` endpoint that accepts network events (source IP and destination port) and runs the same port-scan detection logic independently, using a thread-safe `ConcurrentHashMap` to track connections per source IP across concurrent requests. This demonstrates the same detection algorithm implemented across two different stacks (Python for packet capture, Java for a concurrent, API-driven detection service).
 
 ## Tech Stack
 - Python 3 (packet capture and detection logic)
@@ -44,6 +46,13 @@ Once running, query the detected alerts:
 ```bash
 curl localhost:8080/alerts
 curl localhost:8080/alerts/port-scan
+```
+
+Simulate a port scan directly against the Java service:
+```bash
+for port in 1 2 3 4 5 6 7 8 9 10 11; do
+  curl -X POST localhost:8080/events -H "Content-Type: application/json" -d "{\"sourceIp\": \"10.0.0.99\", \"destPort\": $port}"
+done
 ```
 
 ## Testing
