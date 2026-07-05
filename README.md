@@ -10,6 +10,7 @@ A real-time network traffic monitoring tool that captures packets and detects su
 - Java/Spring Boot REST API exposing detected alerts (`/alerts`, `/alerts/port-scan`)
 - Independent Java-based detection engine with thread-safe event processing (`/events`)
 - C-based packet capture layer using libpcap, with its own port scan detection logic
+- Threat intelligence integration: flags traffic from known malicious IPs using a public feed (ipsum project)
 
 
 ## How It Works
@@ -57,6 +58,11 @@ for port in 1 2 3 4 5 6 7 8 9 10 11; do
 done
 ```
 
+Update the threat intelligence feed (downloads known malicious IPs):
+```bash
+python3 intel_update.py
+```
+
 ### Running the C packet capture layer
 
 ```bash
@@ -91,7 +97,7 @@ This highlights the performance difference between a compiled, low-level languag
 - [x] Log detected events to a database (SQLite/PostgreSQL)
 - [x] Java-based detection engine with REST API
 - [x] C/C++ high-performance packet capture layer
-- [ ] Threat intelligence feed integration (known malicious IPs)
+- [x] Threat intelligence feed integration (known malicious IPs)
 - [ ] Web dashboard for live visualization
 
 ## Ethical Use Notice
