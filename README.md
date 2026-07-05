@@ -11,6 +11,7 @@ A real-time network traffic monitoring tool that captures packets and detects su
 - Independent Java-based detection engine with thread-safe event processing (`/events`)
 - C-based packet capture layer using libpcap, with its own port scan detection logic
 - Threat intelligence integration: flags traffic from known malicious IPs using a public feed (ipsum project)
+- Live web dashboard with real-time stats and alert visualization
 
 
 ## How It Works
@@ -62,6 +63,10 @@ Update the threat intelligence feed (downloads known malicious IPs):
 ```bash
 python3 intel_update.py
 ```
+Open the live dashboard in your browser:
+```
+http://localhost:8080/dashboard.html
+```
 
 ### Running the C packet capture layer
 
@@ -98,7 +103,7 @@ This highlights the performance difference between a compiled, low-level languag
 - [x] Java-based detection engine with REST API
 - [x] C/C++ high-performance packet capture layer
 - [x] Threat intelligence feed integration (known malicious IPs)
-- [ ] Web dashboard for live visualization
+- [x] Web dashboard for live visualization
 
 ## Ethical Use Notice
 This tool is intended for educational purposes and authorized security testing only. Only use it on networks and systems you own or have explicit permission to monitor/test.
