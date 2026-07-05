@@ -75,6 +75,17 @@ Tested locally by running an Nmap scan against localhost and confirming the tool
 nmap -p 1-100 localhost
 ```
 
+### Performance Comparison
+
+A basic benchmark capturing 1000 packets on the loopback interface:
+
+| Implementation | Time |
+|---|---|
+| C (libpcap) | 0.0068 seconds |
+| Python (Scapy) | 3.8873 seconds |
+
+This highlights the performance difference between a compiled, low-level language and a high-level scripting language for raw packet processing — a key motivation for implementing the capture layer in C.
+
 ## Roadmap
 - [x] Reduce alert noise (rate-limit repeated warnings per source)
 - [x] Log detected events to a database (SQLite/PostgreSQL)

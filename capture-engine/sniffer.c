@@ -5,6 +5,7 @@
 #include <arpa/inet.h>
 #include <netdb.h>
 #include <string.h>
+#include <time.h>
 
 #define MAX_IPS 50
 #define MAX_PORTS_PER_IP 50
@@ -98,8 +99,14 @@ int main(){
     }
 
     printf("Packet capture started... (press Ctrl+C to stop)\n");
-    pcap_loop(handle, 0, packet_handler, NULL);
 
+    clock_t start = clock();
+    pcap_loop(handle, 1000, packet_handler, NULL);
+    clock_t end = clock();
+
+    double elapsed = (double)(end - start) / CLOCKS_PER_SEC;
+    printf("Captured 1000 packets in %.4f seconds\n", elapsed);
+    
     pcap_close(handle);
     return 0;
 }
