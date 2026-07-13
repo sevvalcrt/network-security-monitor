@@ -1,0 +1,1147 @@
+Packet capture started... (press Ctrl+C to stop)
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 0.0.0.0 -> Destination: 0.0.0.0
+Source: 0.0.0.0 -> Destination: 0.0.0.0
+Source: 0.0.0.0 -> Destination: 0.0.0.0
+Source: 0.0.0.0 -> Destination: 0.0.0.0
+Source: 0.0.0.0 -> Destination: 0.0.0.0
+Source: 0.0.0.0 -> Destination: 0.0.0.0
+Source: 0.0.0.0 -> Destination: 0.0.0.0
+Source: 0.0.0.0 -> Destination: 0.0.0.0
+Source: 0.0.0.0 -> Destination: 0.0.0.0
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 0.0.0.0 -> Destination: 0.0.0.0
+Source: 0.0.0.0 -> Destination: 0.0.0.0
+Source: 0.0.0.0 -> Destination: 0.0.0.0
+Source: 0.0.0.0 -> Destination: 0.0.0.0
+Source: 0.0.0.0 -> Destination: 0.0.0.0
+Source: 0.0.0.0 -> Destination: 0.0.0.0
+Source: 0.0.0.0 -> Destination: 0.0.0.0
+Source: 0.0.0.0 -> Destination: 0.0.0.0
+Source: 0.0.0.0 -> Destination: 0.0.0.0
+Source: 0.0.0.0 -> Destination: 0.0.0.0
+Source: 0.0.0.0 -> Destination: 0.0.0.0
+Source: 0.0.0.0 -> Destination: 0.0.0.0
+Source: 0.0.0.0 -> Destination: 0.0.0.0
+Source: 0.0.0.0 -> Destination: 0.0.0.0
+Source: 0.0.0.0 -> Destination: 0.0.0.0
+Source: 0.0.0.0 -> Destination: 0.0.0.0
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 0.0.0.0 -> Destination: 0.0.0.0
+Source: 0.0.0.0 -> Destination: 0.0.0.0
+Source: 0.0.0.0 -> Destination: 0.0.0.0
+Source: 0.0.0.0 -> Destination: 0.0.0.0
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 0.0.0.0 -> Destination: 0.0.0.0
+Source: 0.0.0.0 -> Destination: 0.0.0.0
+Source: 0.0.0.0 -> Destination: 0.0.0.0
+Source: 0.0.0.0 -> Destination: 0.0.0.0
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 0.0.0.0 -> Destination: 0.0.0.0
+Source: 0.0.0.0 -> Destination: 0.0.0.0
+Source: 0.0.0.0 -> Destination: 0.0.0.0
+Source: 0.0.0.0 -> Destination: 0.0.0.0
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 0.0.0.0 -> Destination: 0.0.0.0
+Source: 0.0.0.0 -> Destination: 0.0.0.0
+Source: 0.0.0.0 -> Destination: 0.0.0.0
+Source: 0.0.0.0 -> Destination: 0.0.0.0
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 0.0.0.0 -> Destination: 0.0.0.0
+Source: 0.0.0.0 -> Destination: 0.0.0.0
+Source: 0.0.0.0 -> Destination: 0.0.0.0
+Source: 0.0.0.0 -> Destination: 0.0.0.0
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 0.0.0.0 -> Destination: 0.0.0.0
+Source: 0.0.0.0 -> Destination: 0.0.0.0
+Source: 0.0.0.0 -> Destination: 0.0.0.0
+Source: 0.0.0.0 -> Destination: 0.0.0.0
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 0.0.0.0 -> Destination: 0.0.0.0
+Source: 0.0.0.0 -> Destination: 0.0.0.0
+Source: 0.0.0.0 -> Destination: 0.0.0.0
+Source: 0.0.0.0 -> Destination: 0.0.0.0
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41694
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41694 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 42037 -> 41686
+Source: 127.0.0.1 -> Destination: 127.0.0.1
+  TCP Port: 41686 -> 42037
+Source: 127.0.0.1 -> Dest

@@ -143,12 +143,16 @@
 </head>
 <body>
     <div class="header">
-        <h1>Network Security <span>Monitor</span></h1>
-        <div class="status-badge">
-            <div class="dot"></div>
-            <span id="last-updated">Connecting...</span>
-        </div>
+    <h1>Network Security <span>Monitor</span></h1>
+    <div class="status-badge">
+        <div class="dot"></div>
+        <span id="last-updated">Connecting...</span>
     </div>
+    <div>
+        <button onclick="startSniffer()" style="background:#4ade80;color:#000;border:none;padding:8px 16px;border-radius:6px;cursor:pointer;font-weight:600;margin-right:8px;">Start Capture</button>
+        <button onclick="stopSniffer()" style="background:#f87171;color:#000;border:none;padding:8px 16px;border-radius:6px;cursor:pointer;font-weight:600;">Stop Capture</button>
+    </div>
+</div>
 
     <div class="stats">
         <div class="stat-card total">
@@ -182,6 +186,15 @@
     </div>
 
     <script>
+        async function startSniffer() {
+    await fetch('/api/sniffer/start', { method: 'POST' });
+    alert('Capture started');
+}
+
+async function stopSniffer() {
+    await fetch('/api/sniffer/stop', { method: 'POST' });
+    alert('Capture stopped');
+}
         async function loadAlerts() {
             try {
                 const response = await fetch('/alerts');
