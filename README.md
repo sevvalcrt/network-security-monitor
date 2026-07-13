@@ -12,6 +12,7 @@ A real-time network traffic monitoring tool that captures packets and detects su
 - C-based packet capture layer using libpcap, with its own port scan detection logic
 - Threat intelligence integration: flags traffic from known malicious IPs using a public feed (ipsum project)
 - Live web dashboard with real-time stats and alert visualization
+- Start/stop packet capture directly from the dashboard (no terminal required)
 
 
 ## How It Works
